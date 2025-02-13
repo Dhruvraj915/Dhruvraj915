@@ -3,7 +3,7 @@
 <h3 align="center">Passionate Android Developer | Code. Build. Innovate.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV1YXIzaHEzYjV5ZWpzY3Joank2bmVrb2hhaWFsM3hmbGt1cmlzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 <p align="left"> 
-</a> 🔭 <b>I’m currently working on -</b> building Android apps with Kotlin.<br>👯 <b>I’m looking to collaborate on - </b> open-source Android projects and innovative mobile app ideas.  <br>🤝 <b>I’m looking for help with - </b> improving performance optimization and best UI/UX practices in Android development.  <br>💬 <b>Ask me about - </b> Android development, Kotlin, Firebase integration, and UI/UX design.  <br>⚡ <b>Fun fact - </b> If Android Studio had a loyalty program, I’d be a Platinum member. 🏆  <br>
+</a> 🔭 <b>I’m currently working on -</b> building Android apps with Kotlin.<br><br>👯 <b>I’m looking to collaborate on - </b> open-source Android projects and innovative mobile app ideas.  <br><br>🤝 <b>I’m looking for help with - </b> improving performance optimization and best UI/UX practices in Android development.  <br><br>💬 <b>Ask me about - </b> Android development, Kotlin, Firebase integration, and UI/UX design.  <br><br>⚡ <b>Fun fact - </b> If Android Studio had a loyalty program, I’d be a Platinum member. 🏆  <br>
 
 
 ## 🌐 Socials:
@@ -19,5 +19,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
